@@ -87,7 +87,7 @@ path = kagglehub.dataset_download("alincijov/self-driving-cars")
 ```
 
 
-### - CamSeq 2007 (Semantic Segmentation) *Image Segmentation Notebook*
+### CamSeq 2007 (Semantic Segmentation) *Image Segmentation Notebook*
 Dataset was obtained via [Kaggle](https://www.kaggle.com/datasets/carlolepelaars/camseq-semantic-segmentation).
 
 One way to dowload this dataset from the notebook is with the Kaggle API (first, the dependency has to be downloaded):
