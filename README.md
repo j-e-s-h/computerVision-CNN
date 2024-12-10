@@ -100,7 +100,7 @@ path = kagglehub.dataset_download("carlolepelaars/camseq-semantic-segmentation")
 
 ## Notebooks
 * `resnet50_object_detection.ipynb` fouces on the TensorFlow Models API. In particular uses the `object_detection` module and a pretrained model of **ResNet50**, trained with the [COCO Dataset](https://cocodataset.org/#home). **Note**. This notebook is complex to run due to lack of support for the tensorflow module ([README.md](https://github.com/tensorflow/models/blob/master/research/object_detection/README.md) from the repository for more information). However, the section **Environment Installation** of this *README.md* file tells everything step by step how to make everything to work properly without having troubles with versions or data.
-* `unet_semantic_segmentation` works with TensorFlow2 and Keras to build a U-Net arquitecture from scratch.
+* `unet_semantic_segmentation.ipynb` works with TensorFlow2 and Keras to build a U-Net arquitecture from scratch.
 
 
 
