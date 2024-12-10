@@ -119,7 +119,7 @@ path = kagglehub.dataset_download("carlolepelaars/camseq-semantic-segmentation")
 │   ├── interim                 <- Intermediate data that has been transformed.
 │   └── processed               <- The final, canonical data sets for modeling.
 │
-├── models                      <- Models directory
+├── models                      
 │   ├── tf_models               <- 'object_detection' module from Tensorflow2 (empty at first).
 │   └── u_net                   <- Weights checkpoints for the U-Net training.
 │
