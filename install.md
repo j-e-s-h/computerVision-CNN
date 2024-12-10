@@ -1,4 +1,4 @@
-# objectDetection-CNN guide installation
+# computerVision-CNN guide installation
 
 ## Prerequisites
 
@@ -8,7 +8,7 @@
 
 ```bash
 conda env create -f environment.yml
-activate objectdetection_cnn
+activate computervision_cnn
 ```
 
 ## Set up project's module
